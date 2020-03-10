@@ -90,7 +90,7 @@
         "symfony/dom-crawler": "~5.0",
         "symfony/finder": "^5.0",
         "thecodingmachine/phpstan-safe-rule": "^1.0",
-        "vimeo/psalm": "dev-master"
+        "vimeo/psalm": "3.9.4"
     },
     "suggest": {
         "ext-apcu": "*"
