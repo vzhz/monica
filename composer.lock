@@ -84,16 +84,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.133.32",
+            "version": "3.133.34",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "c4bd227436446f02d2b9963f3ea4ae6dc380420b"
+                "reference": "02131fd17c9b62f36993bb2da88dd624ce058179"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/c4bd227436446f02d2b9963f3ea4ae6dc380420b",
-                "reference": "c4bd227436446f02d2b9963f3ea4ae6dc380420b",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/02131fd17c9b62f36993bb2da88dd624ce058179",
+                "reference": "02131fd17c9b62f36993bb2da88dd624ce058179",
                 "shasum": ""
             },
             "require": {
@@ -164,7 +164,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-03-09T18:10:46+00:00"
+            "time": "2020-03-11T18:17:17+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -11406,20 +11406,20 @@
         },
         {
             "name": "felixfbecker/advanced-json-rpc",
-            "version": "v3.1.0",
+            "version": "v3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/felixfbecker/php-advanced-json-rpc.git",
-                "reference": "a407a6cb0325cd489c6dff57afcba6baeccc0483"
+                "reference": "0ed363f8de17d284d479ec813c9ad3f6834b5c40"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/felixfbecker/php-advanced-json-rpc/zipball/a407a6cb0325cd489c6dff57afcba6baeccc0483",
-                "reference": "a407a6cb0325cd489c6dff57afcba6baeccc0483",
+                "url": "https://api.github.com/repos/felixfbecker/php-advanced-json-rpc/zipball/0ed363f8de17d284d479ec813c9ad3f6834b5c40",
+                "reference": "0ed363f8de17d284d479ec813c9ad3f6834b5c40",
                 "shasum": ""
             },
             "require": {
-                "netresearch/jsonmapper": "^1.0",
+                "netresearch/jsonmapper": "^1.0 || ^2.0",
                 "php": ">=7.0",
                 "phpdocumentor/reflection-docblock": "^4.0.0 || ^5.0.0"
             },
@@ -11443,7 +11443,7 @@
                 }
             ],
             "description": "A more advanced JSONRPC implementation",
-            "time": "2020-02-11T20:48:40+00:00"
+            "time": "2020-03-11T15:21:41+00:00"
         },
         {
             "name": "felixfbecker/language-server-protocol",
